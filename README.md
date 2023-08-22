@@ -1,2 +1,2 @@
-# dio-java-basico
-Repositório para armazenamento dos códigos de java básico
+# dio-trilha-java-basico
+Repositório para exercícios do curso de java básico pela dio
