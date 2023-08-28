@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploExcecao",
+            "request": "launch",
+            "mainClass": "ExemploExcecao",
+            "projectName": "java-terminal_f3729309"
+        },
+        {
+            "type": "java",
             "name": "AboutMe",
             "request": "launch",
             "mainClass": "AboutMe",
